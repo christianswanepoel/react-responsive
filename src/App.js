@@ -9,7 +9,7 @@ const App = () => {
       <Desktop>Desktop or laptop</Desktop>
       <Tablet>Tablet</Tablet>
       <Mobile>Mobile</Mobile>
-      <MobileSmall>Mobile - Small</MobileSmall>
+      <MobileSmall>Mobile - Small </MobileSmall>
     </div>
   );
 };
